@@ -16,7 +16,7 @@
 	if(member.getMid() != null){
 %>
 
-<div class="top">
+<div class="ttop">
 	<div class="loginout">
 	<a href="#"><%=member.getMname() %></a>&nbsp;
 	<span>|</span>&nbsp;
