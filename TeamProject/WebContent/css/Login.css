@@ -1,0 +1,126 @@
+@charset "UTF-8";
+
+html, body {
+	width: 100%;
+}
+
+.wrap11 {
+	height: 383px;
+	min-height: 100%;
+	position: relative;
+	padding-bottom: 60px;
+	padding-top: 90px;
+	padding-bottom: 220px;
+}
+
+footer {
+	bottom: 0;
+}
+
+.div-htag {
+	width: 750px;
+	height: 36px;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 36px;
+	display: block;
+	margin: auto;
+}
+
+.user-select {
+	width: 360px;
+	height: 41px;
+}
+
+.user1 {
+	width: 178px;
+	background-color: white;
+	font-size: 13px;
+	height: 41px;
+	float: left;
+	text-align: center;
+	line-height: 41px;
+	border: 1px solid black;
+	border-bottom-style: none;
+}
+
+.user2 {
+	width: 178px;
+	font-size: 13px;
+	border: 1px solid #f3f3f3;
+	background-color: #f3f3f3;
+	color: #999999;
+	height: 41px;
+	float: right;
+	text-align: center;
+	line-height: 41px;
+}
+
+.form-login {
+	width: 358px;
+	margin-right: 20px;
+}
+
+.content-wrap {
+	width: 750px;
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.login-wrap {
+	float: left;
+}
+
+.ad-side {
+	float: left;
+	width: 358px;
+	height: 235px;
+	border: 1px solid rgba(0, 0, 0, .07);
+}
+
+.input-id, .input-pw {
+	width: 305px;
+	height: 24px;
+	padding: 13px 13px 18px 40px;
+	border: 1px solid gray;
+	font-size: 15px;
+	line-height: 24px;
+}
+
+.input-id {
+	border-bottom-style: none;
+	margin-top: 30px;
+}
+
+.input-btn {
+	width: 360px;
+	height: 50px;
+	background-color: red;
+	color: white;
+	border: none;
+	padding: 0;
+	font-size: 15px;
+}
+
+.input-checkbox {
+	float: left;
+	margin-top: 17px;
+}
+
+.div-checkbox .input-checkbox span {
+	font-size: 13px;
+	line-height: 46px;
+}
+
+.div-userinput {
+	width: 360px;
+}
+
+.a-list {
+	float: right;
+}
+
+.div-user {
+	float: right;
+}

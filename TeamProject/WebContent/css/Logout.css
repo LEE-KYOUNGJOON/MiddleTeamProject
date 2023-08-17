@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+.wrap12 {
+	height: 383px;
+	min-height: 100%;
+	position: relative;
+	padding-bottom: 60px;
+	padding-top: 90px;
+	padding-bottom: 220px;
+}
+
+footer {
+	bottom: 0;
+}
+
+.userwrap {
+	width: 360px;
+	height: 200px;
+	background-color: white;
+	color: white;
+	display: block;
+	margin: auto;
+	margin-top: 100px;
+	border: 1px solid #f4f4f4;
+}
+
+.title {
+	background-color: red;
+	height: 50px;
+	line-height: 50px;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.userName {
+	width: 360px;
+	height: 50px;
+	color: black;
+	line-height: 50px;
+}
+
+.userText {
+	width: 360px;
+	height: 50px;
+	color: black;
+	line-height: 50px;
+}
+
+.btn-list {
+	width: 300px;
+	height: 50px;
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.btn-logout {
+	width: 100px;
+	height: 50px;
+	background-color: red;
+	color: white;
+	float: left;
+	line-height: 50px;
+	border-radius: 30px;
+	margin-right: 5px;
+}
+
+.btn-logout2 {
+	width: 100px;
+	height: 50px;
+	background-color: red;
+	color: white;
+	float: right;
+	line-height: 50px;
+	border-radius: 30px;
+	margin-left: 5px;
+}
